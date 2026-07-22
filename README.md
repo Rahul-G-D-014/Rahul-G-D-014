@@ -269,3 +269,155 @@ Passionate about building scalable software, solving real-world problems, and co
 ### ⭐ "Always Learning • Always Building • Always Improving"
 
 </p>
+
+
+
+<div align="center">
+
+# Hi 👋, I'm Rahul G Danaraddi
+
+### Computer Science Engineering Student • Full-Stack Developer • Data Science • Artificial Intelligence
+
+<p>
+Passionate about building scalable software, exploring AI technologies, and solving real-world problems through clean, efficient code.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Artificial+Intelligence;Data+Science;Backend+Development;Always+Learning+Something+New"/>
+
+</div>
+
+---
+
+# About Me
+
+```text
+🎓 Computer Science Engineering Undergraduate
+
+💻 Interested in Full-Stack Development, Artificial Intelligence,
+   Data Science and Backend Engineering
+
+🌱 Currently learning
+   • System Design
+   • Cloud Computing
+   • Scalable Backend Architecture
+
+🚀 Building projects that solve real-world problems
+
+🎯 Seeking Software Engineering Internship Opportunities
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-1F2937?style=for-the-badge&logo=flask&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1B4332?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+
+---
+
+## Artificial Intelligence & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-G-D-014&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-G-D-014&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Currently Exploring
+
+- FastAPI
+- React & Next.js
+- PostgreSQL
+- Artificial Intelligence
+- Data Science
+- System Design
+- Cloud Computing
+
+---
+
+# Connect
+
+<p align="left">
+
+<a href="mailto:rahulgd1432005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rahul-g-danaraddi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rahul-G-D-014">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
