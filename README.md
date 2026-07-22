@@ -1,21 +1,7 @@
-<div align="center">
-
-# Hi 👋, I'm Rahul G Danaraddi
-
-### Computer Science Engineering Student • Full-Stack Developer • Data Science • Artificial Intelligence
-
-<p>
-Passionate about building scalable software, exploring AI technologies, and solving real-world problems through clean, efficient code.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Artificial+Intelligence;Data+Science;Backend+Development;Always+Learning+Something+New"/>
-
-</div>
-
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rahul+G+Danaraddi;Computer+Science+Engineering+Student;Full-Stack+Developer;Data+Science+%7C+Artificial+Intelligence;Backend+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Rahul+G+Danaraddi;Computer+Science+Engineering+Student;Full-Stack+Developer;Data+Science+%7C+Artificial+Intelligence;Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <h3 align="center">
@@ -34,60 +20,60 @@ Passionate about building scalable software, solving real-world problems, and co
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-- 🎓 Computer Science Engineering Undergraduate
-- 🚀 Passionate about Full-Stack Development, AI & Data Science
-- 🌱 Currently learning System Design, Cloud & DevOps
-- 💡 Love building real-world software products
-- 🎯 Preparing for Software Engineering roles
-- 🤝 Open to Internship Opportunities
+-  Computer Science Engineering Undergraduate
+-  Passionate about Full-Stack Development, AI & Data Science
+-  Currently learning System Design, Cloud
+-  Love building real-world software products
+-  Preparing for Software Engineering roles
+-  Open to Internship Opportunities
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🎨 Frontend
+##  Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-## ⚙️ Backend
+##  Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-## 🗄 Databases
+##  Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## 🤖 AI & Data Science
+##  AI & Data Science
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## ☁ Cloud & DevOps
+##  Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-## 🛠 Tools
+##  Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -98,7 +84,7 @@ Passionate about building scalable software, solving real-world problems, and co
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -116,7 +102,7 @@ Passionate about building scalable software, solving real-world problems, and co
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -126,18 +112,17 @@ Passionate about building scalable software, solving real-world problems, and co
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Backend Architecture
 - System Design
 - Cloud Computing
-- DevOps
 - AI Applications
 - Scalable APIs
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -159,7 +144,7 @@ Passionate about building scalable software, solving real-world problems, and co
 
 <p align="center">
 
-### ⭐ "Always Learning • Always Building • Always Improving"
+###  "Always Learning • Always Building • Always Improving"
 
 </p>
 
